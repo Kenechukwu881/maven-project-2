@@ -22,7 +22,7 @@
 <div class="header">
   <h1>Sample Java Webapp</h1>
   <p>Hello JJTech World!</p>
-  <p>This is Ken speaking! Come home now</p>
+  <p>This is Ken speaking! OKKKKKKKRRRRRRRRR</p>
 </div>
 </body>
 </html>
